@@ -124,7 +124,7 @@ if __name__ == "__main__":
     #----   Title   ---
     
     window = tk.Tk()
-    window.title("New")
+    window.title("BookCipher")
     window.geometry('500x500' )
     label1 = ttk.Label(master=window , text = "Book Cipher" , font = 'Calibri 24 '   )
     
