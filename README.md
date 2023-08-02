@@ -7,4 +7,6 @@ the algo for encrypting and decrypting messages is pretty simple.
 * 3 number Code --> [ PageNum , LineNum , WordNum ] (For Now).
 * Very Simple yet Dynamic GUI using Tkinter Lib for Sophistication.
 * Making Sure that without the Right key/pdf, it's impossible to crack the description 💪
-* 
+## Visuals
+![Capture](https://github.com/abdullahZahid951/bookCipherImplementation-repo/assets/140307221/8a5a7259-8d87-434f-adb5-552809797f32)
+
