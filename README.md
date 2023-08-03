@@ -17,7 +17,25 @@ the algo for encrypting and decrypting messages is pretty simple.
 ### Entry Field where Code is Decoded to A plain Text Message
 ![13](https://github.com/abdullahZahid951/bookCipherImplementation-repo/assets/140307221/1eb517fe-d7fb-4a0b-97bf-17e7aaa9b2e4)
 ## Installation
+Cloning this GitHub Repo will be the best way to work with it.
+* Required Code :
+```
+cd /path/to/your/directory
+git init
+git clone git@github.com:abdullahZahid951/bookCipherImplementation-repo.git
+```
+* For Pre-Requisites Libraries:
+```  
+pip install -r requirements.txt
+```  
+## Collaboration
+Before adding any extra code kindly file an issue and tell what problem your chunk of code solves.
+### Known Issues I want your help with
+* The complexity of def encodingModule(filename ,  realMsgThatIsToBeEncoded  ) is way off the charts, implement your creative solution
+  to improve that.
+* Enhance the GUI.   
 
+ 
 
 
 
